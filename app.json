@@ -1,0 +1,17 @@
+{
+  "name": "cors-anywhere",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/stampoxen/cors-anywhere"
+    }
+  ]
+}
